@@ -12,7 +12,7 @@ My fork of st, comes with no guarantees or warranties <sub>(to be clear: this me
 * Read or change keybinds, default font/size, etc. in **config.h** - I'll update the man page at some point. Pretty much what you'd expect, besides:
   - ```alt + c``` & ```alt + v``` for copy-paste
   - ```alt + a``` & ```alt + s``` to increase and decrease alpha (transparency) respectively
-  - ```alt + shift + j``` & ```alt + shift + j``` to increase and decrease font size, respectively
+  - ```alt + shift + k``` & ```alt + shift + j``` to increase and decrease font size, respectively
 
 ## how install pls?
 ```
