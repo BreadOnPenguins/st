@@ -15,7 +15,8 @@ My fork of st, comes with no guarantees or warranties <sub>(to be clear: this me
   - ```alt + shift + j``` & ```alt + shift + j``` to increase and decrease font size, respectively
 
 ## how install pls?
-```git clone https://github.com/BreadOnPenguins/st
+```
+git clone https://github.com/BreadOnPenguins/st
 cd st
 sudo make install
 ```
