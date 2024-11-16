@@ -9,7 +9,7 @@ My fork of st, comes with no guarantees or warranties <sub>(to be clear: this me
 
 ## other stuff
 * If you aren't using Xresources or wal/pywal, default color palette is [Nord](https://www.nordtheme.com/).
-* Read or change keybinds, default font/size, etc. in **config.h** - I'll update the man page at some point. Pretty much what you'd expect, besides:
+* Read or change keybinds, default font/size, etc. in **config.h** - I'll update the man page at some point. Bindings are much what you'd expect, besides:
   - ```alt + c``` & ```alt + v``` for copy-paste
   - ```alt + a``` & ```alt + s``` to increase and decrease alpha (transparency) respectively
   - ```alt + shift + k``` & ```alt + shift + j``` to increase and decrease font size, respectively
