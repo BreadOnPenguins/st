@@ -1,5 +1,5 @@
 ## simple terminal
-My fork of st, comes with no guarantees or warranties <sub>(to be clear: this means things may not work)</sub> :^)
+My fork of st, comes with no guarantees or warranties <sub>(to be clear: this means things may not work as expected, or at all)</sub> :^)
 
 ## patches added
 * alpha & changealpha (transparency)
